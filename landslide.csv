@@ -1,4 +1,4 @@
-_id,objectid,code,acres,sqmiles,created_user,created_date,last_edited_user,last_edited_date,landslideprone,shape_length,shape_area,Area
+_id,objectid,code,acres,sqmiles,created_user,created_date,last_edited_user,last_edited_date,landslideprone,shape_length,shape_area,area
 5116,1,p,911.371,1.424,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,119881.121,39699313.29,Perry South
 5117,2,p,721.516,1.127,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,110063.007,31429218.64,Brighton Heights
 5118,3,p,19.157,0.03,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,4699.170856,834469.9123,Perry North
@@ -28,7 +28,7 @@ _id,objectid,code,acres,sqmiles,created_user,created_date,last_edited_user,last_
 5142,27,p,192.413,0.301,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,40792.34415,8381500.609,Ridgemont
 5143,28,p,186.041,0.291,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,44161.51111,8103961.145,Beechview
 5144,29,p,525.429,0.821,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,83709.22882,22887674.68,Hazelwood
-5145,30,p,49.62,0.078,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,13696.81614,2161441.165,Mt. Washington
+5145,30,p,49.62,0.078,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,13696.81614,2161441.165,Mount Washington
 5146,31,p,89.803,0.14,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,22013.52521,3911807.656,Brookline
 5147,32,p,113.537,0.177,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,16895.73639,4945691.662,Arlington
 5148,33,p,93.202,0.146,pgh.admin,3/19/2018 19:03,pgh.admin,3/19/2018 19:03,Yes,19358.50205,4059882.072,Hays
