@@ -1,6 +1,6 @@
 # Final-Project
 Team: Team Name         (Canvas: 26)
-Shane Klein (SFK34@pitt.edu), Tommy Vidra (TEV36@pitt.edu), Shubham Tewari (SHT240@pitt.edu)
+Shane Klein (Landslide)(SFK34@pitt.edu), Tommy Vidra (Arrests)(TEV36@pitt.edu), Shubham Tewari (Air Pollution)(SHT240@pitt.edu)
 
 Final project is compiled in "Compiled.ipynb" 
 
