@@ -1,5 +1,5 @@
 # Final-Project
-Team: Team Name
+Team: Team Name         (Canvas: 26)
 Shane Klein (SFK34@pitt.edu), Tommy Vidra (TEV36@pitt.edu), Shubham Tewari (SHT240@pitt.edu)
 
 Final project is compiled in "Compiled.ipynb" 
