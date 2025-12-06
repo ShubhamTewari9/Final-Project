@@ -1,6 +1,6 @@
 # Final-Project
 Team: Team Name
-Shane Klein (SFK34@pitt.edu), Tommy Vidra (tomshker1@gmail.com), Shubham Tewari (SHT240@pitt.edu)
+Shane Klein (SFK34@pitt.edu), Tommy Vidra (TEV36@pitt.edu), Shubham Tewari (SHT240@pitt.edu)
 
 Final project is compiled in "Compiled.ipynb" 
 
